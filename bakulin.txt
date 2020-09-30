@@ -4,6 +4,7 @@ include <iostream.h>
 int main()
 {
 	std::cout << "Hello world[master]";
+	std::cout << "Hello world[new-bracnh]";
 	std::cout << "I feel good";
 	std::cout << "Master branch changed";
 	std::cout << "New branch";
