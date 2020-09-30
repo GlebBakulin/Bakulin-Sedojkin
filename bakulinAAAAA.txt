@@ -5,7 +5,4 @@ int main()
 {
 	std::cout << "Hello world";
 	std::cout << "I feel good";
-	std::cout << "Master branch changed";
-	std::cout << "New branch";
-
 }	
